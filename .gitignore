@@ -1,0 +1,4 @@
+chromium/
+*.tmp/
+chromiumup
+chromiumup.exe
