@@ -101,7 +101,7 @@ func platformStrings() (platform string, file string) {
 		file += "chrome-linux.zip"
 	case "windows":
 		platform += "Win"
-		file += "chrome-win32.zip"
+		file += "chrome-win.zip"
 	case "darwin":
 		// There is no distinction between architectures here
 		return "chrome-mac.zip", "Mac"
